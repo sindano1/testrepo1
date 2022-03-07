@@ -1,3 +1,11 @@
 body {
     background-color: blanchedalmond;
+    font-family: sans-serif'\;
+}
+
+#hero {
+    background-image: url(https://media.cntraveler.com/photos/5a8f3b070e2cf839e9dbfa1d/2:1/w_2560%2Cc_limit/NYC_GettyImages-640006562.jpg);
+    height: 95vh;
+    background-position: 50% 50%;
+    background-size: cover;
 }
